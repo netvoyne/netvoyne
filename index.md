@@ -81,7 +81,7 @@ permalink: /
 - [Psiphon](https://psiphon.ca/)
 - [Tor](https://www.torproject.org/). Заблокирован, но вы можете воспользоваться [з](https://mirror.oldsql.cc/tor/)[е](https://tormirror.tb-itf-tor.de/)[р](https://www.torservers.net/mirrors/torproject.org/)[к](https://tor.ybti.net/)[а](https://tor.0x3d.lu/)[л](https://www.eprci.com/tor/)[а](https://ftp.yzu.edu.tw/torproject.org/)[м](https://tor.calyxinstitute.org/)[и](https://tor.armbrust.me/) и получить мосты для обхода блокировки в [телеграм-боте](https://t.me/GetBridgesBot). Как использовать мост описано [здесь](https://te-st.ru/2021/12/04/tor-blocked/)
 
-№№№ **Помочь нам улучшить эту страницу**
+### **Помочь нам улучшить эту страницу**
 Вы можете:
 - добавить что-то, что считаете важным
 - добавить больше ссылок на источники
