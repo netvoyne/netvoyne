@@ -91,7 +91,7 @@ permalink: /
 [netvoyne@airmail.cc](mailto:netvoyne@airmail.cc)
 
 
-# **Мы и наши соотечественники могут и должны остановить эту бессмысленную войну.**
+# **Мы и наши соотечественники можем и должны сделать всё, чтобы остановить эту бессмысленную войну.**
 
 [^war-declaration]: https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s
 [^attack-claims]: https://t.me/rtphotoandvideo/297
