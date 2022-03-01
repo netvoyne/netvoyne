@@ -15,7 +15,7 @@ permalink: /
 Вы можете помочь собрать нам больше ссылок на источники.
 ![Сообщения о взрывах в первый день войны](images/first-day-attacks.webp)
 ## **Что делать?**
-# **Читайте свободные СМИ**
+# **Читайте независимые СМИ**
 - [Медуза](https://meduza.io/):
  [telegram](https://t.me/meduzalive),
  [instagram](https://www.instagram.com/meduzapro/),
@@ -80,12 +80,13 @@ permalink: /
 Вы можете их обходить различными средствами:
 - [Lantern](https://getlantern.org/)
 - [Psiphon](https://psiphon.ca/)
-- [Tor](https://www.torproject.org/). Заблокирован, но вы можете воспользоваться [з](https://mirror.oldsql.cc/tor/)[е](https://tormirror.tb-itf-tor.de/)[р](https://www.torservers.net/mirrors/torproject.org/)[к](https://tor.ybti.net/)[а](https://tor.0x3d.lu/)[л](https://www.eprci.com/tor/)[а](https://ftp.yzu.edu.tw/torproject.org/)[м](https://tor.calyxinstitute.org/)[и](https://tor.armbrust.me/) и получить мосты для обхода блокировки в [телеграм-боте](https://t.me/GetBridgesBot). Как использовать мост описано [здесь](https://te-st.ru/2021/12/04/tor-blocked/)
+- [Tor](https://www.torproject.org/). Заблокирован, но вы можете воспользоваться [з](https://mirror.oldsql.cc/tor/)[е](https://tormirror.tb-itf-tor.de/)[р](https://www.torservers.net/mirrors/torproject.org/)[к](https://tor.ybti.net/)[а](https://tor.0x3d.lu/)[л](https://www.eprci.com/tor/)[а](https://ftp.yzu.edu.tw/torproject.org/)[м](https://tor.calyxinstitute.org/)[и](https://tor.armbrust.me/) и получить мосты для обхода блокировки в [телеграм-боте](https://t.me/GetBridgesBot). [Как использовать мосты](https://te-st.ru/2021/12/04/tor-blocked/)
 
 # **Помогите нам улучшить эту страницу. Вы можете:**
 - добавить что-то, что считаете важным
 - добавить больше ссылок на источники
 - добавить ресуры, на которых объявляют митинги
+- пополнить список независимых СМИ, освещающих войну и протесты
 - сделать новые [листовки](/flyers.md)
 
 [github](https://github.com/netvoyne/netvoyne.github.io)\
