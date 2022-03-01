@@ -1,3 +1,3 @@
 Вы можете помочь нам и сделать больше листовок.
 
-![flyer](images/flyer.png)
+![flyer](flyers/flyer1.png)
