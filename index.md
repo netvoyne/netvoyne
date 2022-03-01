@@ -11,52 +11,52 @@
 # **Что делать?**
 ### **Читайте свободные СМИ**
  - [Медуза](https://meduza.io/):
- [Telegram](https://t.me/meduzalive),
- [Instagram](https://www.instagram.com/meduzapro/),
- [VK](https://vk.com/meduzaproject),
- [Twitter](https://twitter.com/meduzaproject),
- [Android](https://play.google.com/store/apps/details?id=io.meduza.meduza),
- [iOS](https://apps.apple.com/lv/app/meduza/id1483980563)
+ [telegram](https://t.me/meduzalive),
+ [instagram](https://www.instagram.com/meduzapro/),
+ [vk](https://vk.com/meduzaproject),
+ [twitter](https://twitter.com/meduzaproject),
+ [android](https://play.google.com/store/apps/details?id=io.meduza.meduza),
+ [ios](https://apps.apple.com/lv/app/meduza/id1483980563)
  - [Настоящее Время](https://www.currenttime.tv/):
- [Telegram](https://telegram.me/currenttime),
- [Instagram](https://www.instagram.com/currenttime.tv/),
- [Twitter](https://twitter.com/CurrentTimeTv),
- [TikTok](https://www.tiktok.com/@currenttime.tv),
- [Android](https://play.google.com/store/apps/details?id=org.rferl.ctvideo),
- [iOS](https://apps.apple.com/us/app/%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/id1042221889)
+ [telegram](https://telegram.me/currenttime),
+ [instagram](https://www.instagram.com/currenttime.tv/),
+ [twitter](https://twitter.com/CurrentTimeTv),
+ [tiktok](https://www.tiktok.com/@currenttime.tv),
+ [android](https://play.google.com/store/apps/details?id=org.rferl.ctvideo),
+ [ios](https://apps.apple.com/us/app/%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/id1042221889)
 
  - [Znak.com](https://www.znak.com/):
- [Telegram](https://telegram.me/znakcom),
- [Instagram](https://www.instagram.com/znakcom/),
- [VK](https://vk.com/znak_com),
- [Twitter](https://twitter.com/znak_com),
+ [telegram](https://telegram.me/znakcom),
+ [instagram](https://www.instagram.com/znakcom/),
+ [vk](https://vk.com/znak_com),
+ [twitter](https://twitter.com/znak_com),
  
  - [Медиазона](https://zona.media/):
- [Telegram](https://telegram.me/mediazzzona),
- [Instagram](https://www.instagram.com/mediazzzona/),
- [VK](https://vk.com/mediazzzona),
- [Twitter](https://twitter.com/mediazzzona),
+ [telegram](https://telegram.me/mediazzzona),
+ [instagram](https://www.instagram.com/mediazzzona/),
+ [vk](https://vk.com/mediazzzona),
+ [twitter](https://twitter.com/mediazzzona),
  
 
  - [Дождь](https://tvrain.ru/):
- [Youtube](https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ),
- [Telegram](https://t.me/tvrain),
- [Instagram](https://www.instagram.com/tvrain/),
- [VK](https://vk.com/tvrain),
- [Twitter](https://twitter.com/tvrain)
+ [youtube](https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ),
+ [telegram](https://t.me/tvrain),
+ [instagram](https://www.instagram.com/tvrain/),
+ [vk](https://vk.com/tvrain),
+ [twitter](https://twitter.com/tvrain)
  
  - [Новая Газета](https://novayagazeta.ru/):
- [Telegram](https://t.me/novaya_pishet),
- [Instagram](https://www.instagram.com/novayagazeta),
- [VK](https://vk.com/novgaz),
- [Twitter](https://twitter.com/novaya_gazeta),
- [TikTok](https://www.tiktok.com/@novayagazeta),
+ [telegram](https://t.me/novaya_pishet),
+ [instagram](https://www.instagram.com/novayagazeta),
+ [vk](https://vk.com/novgaz),
+ [twitter](https://twitter.com/novaya_gazeta),
+ [tiktok](https://www.tiktok.com/@novayagazeta),
  
  - [Радио Свобода](https://www.svoboda.org/)
- [Telegram](https://t.me/radiosvoboda),
- [Instagram](https://www.instagram.com/radiosvoboda/),
- [VK](https://vk.com/public12637912),
- [Twitter](https://twitter.com/SvobodaRadio)
+ [telegram](https://t.me/radiosvoboda),
+ [instagram](https://www.instagram.com/radiosvoboda/),
+ [vk](https://vk.com/public12637912),
+ [twitter](https://twitter.com/SvobodaRadio)
 
 ### **Информируйте близких о реальных событиях войны**
 Только так мы можем убедить наших соотечественников, что сейчас идёт война, а не спецоперация по защите населения Украины.
