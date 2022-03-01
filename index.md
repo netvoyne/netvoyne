@@ -1,43 +1,85 @@
 # **ВОЙНА В УКРАИНЕ**
 Российская власть во главе с Путиным объявила полномасштабную войну с Украиной.
-Путин назвал войну спецоперацией. Оправдал её защитой жителей Донбасса, денацификацией и демилитаризацией[^war-declaration].
-## Почему это ложь?
+Путин назвал войну спецоперацией, оправдывая её защитой жителей Донбасса, денацификацией и демилитаризацией[^war-declaration].
+# Почему это ложь?
 В первый же день войны атаке подверглась **почти вся** территория Украины[^first-day].
 Министерство обороны заявляет, что атакуются только военные объекты[^attack-claims]. Но это ложь: помимо объектов военной инфраструктуры, **бомбардировке подвергаются жилые здания и улицы городов**[^bombarding][^bombarding2]. **Гибнут и получают ранения мирные жители[^citizens] и даже дети[^children].**
 **Министерство обороны замалчивает число погибших российских военных[^russian-losses],** а первые дни и вовсе заявляло, что **потерь нет**[^no-losses]. По заявлению минобороны Украины **погибло не менее 5300 российских солдат[^russian-losses2].**
 Этими солдатами могут быть не только люди, служащие по контракту, но и обычные срочники, которых заставили подписать контракт силой, или подписали за них[^conscription1][^conscription2].\
 Доказательств каждого из этих фактов намного больше, чем мы опубликовали.\
 Вы можете помочь собрать нам больше ссылок на источники.
-### **ЧТО ДЕЛАТЬ?**
-**Читайте свободные СМИ.**
-  - [Медуза](https://meduza.io/)
-  - [Настоящее Время (заблокировано РКН)](https://www.currenttime.tv/)
-  - [Znak.com](https://www.znak.com/)
-  - [Медиазона](https://zona.media/)
-  - [Дождь](https://tvrain.ru/)
-  - [Новая Газета](https://novayagazeta.ru/)
-  - [Радио Свобода](https://www.svoboda.org/)
+# **Что делать?**
+### **Читайте свободные СМИ**
+ - [Медуза](https://meduza.io/):
+ [Telegram](https://t.me/meduzalive),
+ [Instagram](https://www.instagram.com/meduzapro/),
+ [VK](https://vk.com/meduzaproject),
+ [Twitter](https://twitter.com/meduzaproject),
+ [Android](https://play.google.com/store/apps/details?id=io.meduza.meduza),
+ [iOS](https://apps.apple.com/lv/app/meduza/id1483980563)
+ - [Настоящее Время](https://www.currenttime.tv/):
+ [Telegram](https://telegram.me/currenttime),
+ [Instagram](https://www.instagram.com/currenttime.tv/),
+ [Twitter](https://twitter.com/CurrentTimeTv),
+ [TikTok](https://www.tiktok.com/@currenttime.tv),
+ [Android](https://play.google.com/store/apps/details?id=org.rferl.ctvideo),
+ [iOS](https://apps.apple.com/us/app/%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/id1042221889)
 
-**Информируйте близких о реальных событиях войны**\
+ - [Znak.com](https://www.znak.com/):
+ [Telegram](https://telegram.me/znakcom),
+ [Instagram](https://www.instagram.com/znakcom/),
+ [VK](https://vk.com/znak_com),
+ [Twitter](https://twitter.com/znak_com),
+ 
+ - [Медиазона](https://zona.media/):
+ [Telegram](https://telegram.me/mediazzzona),
+ [Instagram](https://www.instagram.com/mediazzzona/),
+ [VK](https://vk.com/mediazzzona),
+ [Twitter](https://twitter.com/mediazzzona),
+ 
+
+ - [Дождь](https://tvrain.ru/):
+ [Youtube](https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ),
+ [Telegram](https://t.me/tvrain),
+ [Instagram](https://www.instagram.com/tvrain/),
+ [VK](https://vk.com/tvrain),
+ [Twitter](https://twitter.com/tvrain)
+ 
+ - [Новая Газета](https://novayagazeta.ru/):
+ [Telegram](https://t.me/novaya_pishet),
+ [Instagram](https://www.instagram.com/novayagazeta),
+ [VK](https://vk.com/novgaz),
+ [Twitter](https://twitter.com/novaya_gazeta),
+ [TikTok](https://www.tiktok.com/@novayagazeta),
+ 
+ - [Радио Свобода](https://www.svoboda.org/)
+ [Telegram](https://t.me/radiosvoboda),
+ [[[][pasd
+
+### **Информируйте близких о реальных событиях войны**
 Только так мы можем убедить наших соотечественников, что сейчас идёт война, а не спецоперация по защите населения Украины.
 
-**Участвуйте в антивоенных акциях**\
+### **Участвуйте в антивоенных акциях**
 Например, в мирных митингах и одиночных пикетах.\
-Есть риски быть задержанным или даже избитым полицией. Но у нас нет другого способа заявить российской власти, что мы не хотим этой войны.\
-**Откажитесь от службы**\
-Война ведётся не только Путиным, но и миллионами людей: пропагандисты, военнослужащие, полиция, чиновники. Эти люди поддерживают все действия российских властей, какими бы безумными они не были. Не бойтесь уходить и отказываться от исполнения преступных приказов!\
-**Вы можете распечатать и расклеить антивоенные листовки**\
-Это поможет рассказать о войне тем, кто получает информацию только по телевизору. Не расстраивайтесь, если листовку сорвут. Это тоже реакция, и это будет первой трещиной в слепой вере пропаганде.\
-**Распространяйте информацию в социальных сетях**\
-Даже лайки помогают продвигать новости.\
-**Боритесь с блокировками**\
+Есть риски быть задержанным или даже избитым полицией. Но у нас нет другого способа заявить российской власти, что мы не хотим этой войны.
+
+### **Откажитесь от службы**
+Война ведётся не только Путиным, но и миллионами людей: пропагандисты, военнослужащие, полиция, чиновники. Эти люди поддерживают все действия российских властей, какими бы безумными они не были. Не бойтесь уходить и отказываться от исполнения преступных приказов!
+
+### **Вы можете распечатать и расклеить антивоенные листовки**
+Это поможет рассказать о войне тем, кто получает информацию только по телевизору. Не расстраивайтесь, если листовку сорвут. Это тоже реакция, и это будет первой трещиной в слепой вере пропаганде.
+
+### **Распространяйте информацию в социальных сетях**
+Даже лайки помогают продвигать новости.
+
+### **Боритесь с блокировками**
 Российские власти запрещают называть войну войной и публиковать неофициальные новости. Независимые СМИ могут подвергнуться блокировкам.
 Вы можете их обходить различными средствами:
 - [Lantern](https://getlantern.org/)
 - [Psiphon](https://psiphon.ca/)
 - [Tor](https://www.torproject.org/). Заблокирован, но вы можете воспользоваться [з](https://mirror.oldsql.cc/tor/)[е](https://tormirror.tb-itf-tor.de/)[р](https://www.torservers.net/mirrors/torproject.org/)[к](https://tor.ybti.net/)[а](https://tor.0x3d.lu/)[л](https://www.eprci.com/tor/)[а](https://ftp.yzu.edu.tw/torproject.org/)[м](https://tor.calyxinstitute.org/)[и](https://tor.armbrust.me/) и получить мосты для обхода блокировки в [телеграм-боте](https://t.me/GetBridgesBot). Как использовать мост описано [здесь](https://te-st.ru/2021/12/04/tor-blocked/)
 
-### Наши соотечественники могут и должны остановить эту бессмысленную войну.
+Наши соотечественники могут и должны остановить эту бессмысленную войну.
 
 [^war-declaration]: https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s
 [^attack-claims]: https://t.me/rtphotoandvideo/297
