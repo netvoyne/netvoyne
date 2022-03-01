@@ -54,7 +54,9 @@
  
  - [Радио Свобода](https://www.svoboda.org/)
  [Telegram](https://t.me/radiosvoboda),
- [[[][pasd
+ [Instagram](https://www.instagram.com/radiosvoboda/),
+ [VK](https://vk.com/public12637912),
+ [Twitter](https://twitter.com/SvobodaRadio)
 
 ### **Информируйте близких о реальных событиях войны**
 Только так мы можем убедить наших соотечественников, что сейчас идёт война, а не спецоперация по защите населения Украины.
