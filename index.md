@@ -93,8 +93,8 @@ permalink: /
 
 ## **Мы и наши соотечественники можем и должны сделать всё, чтобы остановить эту бессмысленную войну.**
 
-[^war-declaration]: (https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s)
-[^attack-claims]: [](https://t.me/rtphotoandvideo/297)
+[^war-declaration]: https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s
+[^attack-claims]: https://t.me/rtphotoandvideo/297
 [^first-day]: https://www.currenttime.tv/a/russia-invades-ukraine/31719761/lbl1lbi254882.html
 [^bombarding]: https://medialeaks.ru/2402drem-str-vzryvygoroda/
 [^bombarding2]: https://meduza.io/feature/2022/02/28/v-harkove-obstrelyali-zhilye-kvartaly-foto-i-video
