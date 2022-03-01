@@ -40,14 +40,13 @@
  [instagram](https://www.instagram.com/tvrain/),
  [vk](https://vk.com/tvrain),
  [twitter](https://twitter.com/tvrain)
- 
 - [Новая Газета](https://novayagazeta.ru/):
  [telegram](https://t.me/novaya_pishet),
  [instagram](https://www.instagram.com/novayagazeta),
  [vk](https://vk.com/novgaz),
  [twitter](https://twitter.com/novaya_gazeta),
  [tiktok](https://www.tiktok.com/@novayagazeta),
- 
+
 - [Радио Свобода](https://www.svoboda.org/)
  [telegram](https://t.me/radiosvoboda),
  [instagram](https://www.instagram.com/radiosvoboda/),
