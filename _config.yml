@@ -1,4 +1,4 @@
 theme: minima
 title: Нет войне
 description:
-header_pages:
+header_pages: flyers.md
