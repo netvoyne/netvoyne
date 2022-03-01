@@ -46,7 +46,6 @@
  [vk](https://vk.com/novgaz),
  [twitter](https://twitter.com/novaya_gazeta),
  [tiktok](https://www.tiktok.com/@novayagazeta),
-
 - [Радио Свобода](https://www.svoboda.org/)
  [telegram](https://t.me/radiosvoboda),
  [instagram](https://www.instagram.com/radiosvoboda/),
