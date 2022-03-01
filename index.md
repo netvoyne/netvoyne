@@ -10,49 +10,45 @@
 Вы можете помочь собрать нам больше ссылок на источники.
 # **Что делать?**
 ### **Читайте свободные СМИ**
- - [Медуза](https://meduza.io/):
+- [Медуза](https://meduza.io/):
  [telegram](https://t.me/meduzalive),
  [instagram](https://www.instagram.com/meduzapro/),
  [vk](https://vk.com/meduzaproject),
  [twitter](https://twitter.com/meduzaproject),
  [android](https://play.google.com/store/apps/details?id=io.meduza.meduza),
  [ios](https://apps.apple.com/lv/app/meduza/id1483980563)
- - [Настоящее Время](https://www.currenttime.tv/):
+- [Настоящее Время](https://www.currenttime.tv/):
  [telegram](https://telegram.me/currenttime),
  [instagram](https://www.instagram.com/currenttime.tv/),
  [twitter](https://twitter.com/CurrentTimeTv),
  [tiktok](https://www.tiktok.com/@currenttime.tv),
  [android](https://play.google.com/store/apps/details?id=org.rferl.ctvideo),
  [ios](https://apps.apple.com/us/app/%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/id1042221889)
-
- - [Znak.com](https://www.znak.com/):
+- [Znak.com](https://www.znak.com/):
  [telegram](https://telegram.me/znakcom),
  [instagram](https://www.instagram.com/znakcom/),
  [vk](https://vk.com/znak_com),
  [twitter](https://twitter.com/znak_com),
- 
- - [Медиазона](https://zona.media/):
+- [Медиазона](https://zona.media/):
  [telegram](https://telegram.me/mediazzzona),
  [instagram](https://www.instagram.com/mediazzzona/),
  [vk](https://vk.com/mediazzzona),
  [twitter](https://twitter.com/mediazzzona),
- 
-
- - [Дождь](https://tvrain.ru/):
+- [Дождь](https://tvrain.ru/):
  [youtube](https://www.youtube.com/channel/UCdubelOloxR3wzwJG9x8YqQ),
  [telegram](https://t.me/tvrain),
  [instagram](https://www.instagram.com/tvrain/),
  [vk](https://vk.com/tvrain),
  [twitter](https://twitter.com/tvrain)
  
- - [Новая Газета](https://novayagazeta.ru/):
+- [Новая Газета](https://novayagazeta.ru/):
  [telegram](https://t.me/novaya_pishet),
  [instagram](https://www.instagram.com/novayagazeta),
  [vk](https://vk.com/novgaz),
  [twitter](https://twitter.com/novaya_gazeta),
  [tiktok](https://www.tiktok.com/@novayagazeta),
  
- - [Радио Свобода](https://www.svoboda.org/)
+- [Радио Свобода](https://www.svoboda.org/)
  [telegram](https://t.me/radiosvoboda),
  [instagram](https://www.instagram.com/radiosvoboda/),
  [vk](https://vk.com/public12637912),
