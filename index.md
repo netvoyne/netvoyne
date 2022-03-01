@@ -81,17 +81,17 @@ permalink: /
 - [Psiphon](https://psiphon.ca/)
 - [Tor](https://www.torproject.org/). Заблокирован, но вы можете воспользоваться [з](https://mirror.oldsql.cc/tor/)[е](https://tormirror.tb-itf-tor.de/)[р](https://www.torservers.net/mirrors/torproject.org/)[к](https://tor.ybti.net/)[а](https://tor.0x3d.lu/)[л](https://www.eprci.com/tor/)[а](https://ftp.yzu.edu.tw/torproject.org/)[м](https://tor.calyxinstitute.org/)[и](https://tor.armbrust.me/) и получить мосты для обхода блокировки в [телеграм-боте](https://t.me/GetBridgesBot). Как использовать мост описано [здесь](https://te-st.ru/2021/12/04/tor-blocked/)
 
-# **Помогите нам улучшить эту страницу**
+# **Помогите нам улучшить эту страницу. Вы можете:**
 - добавить что-то, что считаете важным
 - добавить больше ссылок на источники
-- добавить места, в которых объявляют митинги
+- добавить ресуры, на которых объявляют митинги
 - сделать новые [листовки](/flyers.md)
 
 [github](https://github.com/netvoyne/netvoyne.github.io)\
 [netvoyne@airmail.cc](mailto:netvoyne@airmail.cc)
 
 
-## **Мы и наши соотечественники можем и должны сделать всё, чтобы остановить эту бессмысленную войну.**
+## **Мы и наши соотечественники можем и должны делать всё, чтобы остановить эту бессмысленную войну**
 
 [^war-declaration]: https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s
 [^attack-claims]: https://t.me/rtphotoandvideo/297
