@@ -87,7 +87,8 @@ permalink: /
 - добавить больше ссылок на источники
 - добавить места, в которых объявляют митинги
 - сделать новые [листовки](/flyers.md)
-[github](https://github.com/netvoyne/netvoyne.github.io)
+
+[github](https://github.com/netvoyne/netvoyne.github.io)\
 [netvoyne@airmail.cc](mailto:netvoyne@airmail.cc)
 
 
