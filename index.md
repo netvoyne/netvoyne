@@ -8,7 +8,7 @@ permalink: /
 Путин назвал войну спецоперацией, оправдывая её защитой жителей Донбасса, денацификацией и демилитаризацией страны[^war-declaration].
 ## **Почему это ложь?**
 В первый же день войны атаке подверглась **почти вся** территория Украины[^first-day].
-Министерство обороны заявляет, что атакуются только военные объекты[^attack-claims]. Но это ложь: помимо объектов военной инфраструктуры, **бомбардировке подвергаются жилые здания и улицы городов**[^bombarding][^bombarding2]. **Гибнут и получают ранения мирные жители[^citizens] и даже дети[^children].**
+Министерство обороны заявляет, что атакуются только военные объекты[^attack-claims]. Но это ложь: помимо объектов военной инфраструктуры, **бомбардировке подвергаются жилые здания и улицы городов**[^bombarding][^bombarding2][^bombarding3]. **Гибнут и получают ранения мирные жители[^citizens][^citizens2] и даже дети[^children].**
 **Министерство обороны замалчивает число погибших российских военных[^russian-losses],** а первые дни и вовсе заявляло, что **потерь нет**[^no-losses]. По заявлению минобороны Украины **погибло не менее 5300 российских солдат[^russian-losses2].**
 Этими солдатами могут быть не только люди, служащие по контракту, но и обычные срочники, которых заставили подписать контракт силой, или подписали за них[^conscription1][^conscription2].\
 Доказательств каждого из этих фактов намного больше, чем мы опубликовали.\
@@ -93,15 +93,17 @@ permalink: /
 
 ## **Мы и наши соотечественники можем и должны делать всё, чтобы остановить эту бессмысленную войну**
 
-[^war-declaration]: https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s
-[^attack-claims]: https://t.me/rtphotoandvideo/297
-[^first-day]: https://www.currenttime.tv/a/russia-invades-ukraine/31719761/lbl1lbi254882.html
-[^bombarding]: https://medialeaks.ru/2402drem-str-vzryvygoroda/
-[^bombarding2]: https://meduza.io/feature/2022/02/28/v-harkove-obstrelyali-zhilye-kvartaly-foto-i-video
-[^citizens]: https://tsn.ua/ru/ukrayina/za-4-dnya-voyny-rossii-protiv-ukrainy-pogibli-352-grazhdanskih-lica-1684-raneny-mvd-1991182.html
-[^children]: https://www.ukrinform.ru/rubric-society/3414895-mediki-ne-smogli-spasti-16-detej-postradavsih-ot-rossijskoj-agressii.html
-[^russian-losses]: https://ria.ru/20220227/minoborony-1775418655.html
-[^russian-losses2]: https://meduza.io/news/2022/02/28/minoborony-ukrainy-rossiyskie-poteri-s-nachala-voyny-okolo-5300-chelovek
-[^no-losses]: https://iz.ru/1296862/2022-02-25/v-minoborony-zaiavili-ob-otsutstvii-poter-v-vooruzhennykh-silakh-rossii
-[^conscription1]: https://takiedela.ru/news/2022/02/24/komitet-soldatskikh-materey/
-[^conscription2]: https://tvrain.ru/teleshow/notes/roditeli_neskolkih_srochnikov_rasskazali_ob_ugrozhajuschej_ih_detjam_prinuditelnoj_otpravke_v_ukrainu-548755/
+[^war-declaration]: [https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s](https://www.youtube.com/watch?v=sQCuz8JV1-k#t=20m27s)
+[^attack-claims]: [https://t.me/rtphotoandvideo/297](https://t.me/rtphotoandvideo/297)
+[^first-day]: [https://www.currenttime.tv/a/russia-invades-ukraine/31719761/lbl1lbi254882.html](https://www.currenttime.tv/a/russia-invades-ukraine/31719761/lbl1lbi254882.html)
+[^bombarding]: [https://medialeaks.ru/2402drem-str-vzryvygoroda/](https://medialeaks.ru/2402drem-str-vzryvygoroda/)
+[^bombarding2]: [https://meduza.io/feature/2022/02/28/v-harkove-obstrelyali-zhilye-kvartaly-foto-i-video](https://meduza.io/feature/2022/02/28/v-harkove-obstrelyali-zhilye-kvartaly-foto-i-video)
+[^bombarding3]: [https://t.me/suspilnekharkiv/8407](https://t.me/suspilnekharkiv/8407)
+[^citizens]: [https://tsn.ua/ru/ukrayina/za-4-dnya-voyny-rossii-protiv-ukrainy-pogibli-352-grazhdanskih-lica-1684-raneny-mvd-1991182.html](https://tsn.ua/ru/ukrayina/za-4-dnya-voyny-rossii-protiv-ukrainy-pogibli-352-grazhdanskih-lica-1684-raneny-mvd-1991182.html)
+[^citizens2]: [https://www.facebook.com/MNSKHARKIV/posts/326152226220944](https://www.facebook.com/MNSKHARKIV/posts/326152226220944)
+[^children]: [https://www.ukrinform.ru/rubric-society/3414895-mediki-ne-smogli-spasti-16-detej-postradavsih-ot-rossijskoj-agressii.html](https://www.ukrinform.ru/rubric-society/3414895-mediki-ne-smogli-spasti-16-detej-postradavsih-ot-rossijskoj-agressii.html)
+[^russian-losses]: [https://ria.ru/20220227/minoborony-1775418655.html](https://ria.ru/20220227/minoborony-1775418655.html)
+[^russian-losses2]: [https://meduza.io/news/2022/02/28/minoborony-ukrainy-rossiyskie-poteri-s-nachala-voyny-okolo-5300-chelovek](https://meduza.io/news/2022/02/28/minoborony-ukrainy-rossiyskie-poteri-s-nachala-voyny-okolo-5300-chelovek)
+[^no-losses]: [https://iz.ru/1296862/2022-02-25/v-minoborony-zaiavili-ob-otsutstvii-poter-v-vooruzhennykh-silakh-rossii](https://iz.ru/1296862/2022-02-25/v-minoborony-zaiavili-ob-otsutstvii-poter-v-vooruzhennykh-silakh-rossii)
+[^conscription1]: [https://takiedela.ru/news/2022/02/24/komitet-soldatskikh-materey/](https://takiedela.ru/news/2022/02/24/komitet-soldatskikh-materey/)
+[^conscription2]: [https://tvrain.ru/teleshow/notes/roditeli_neskolkih_srochnikov_rasskazali_ob_ugrozhajuschej_ih_detjam_prinuditelnoj_otpravke_v_ukrainu-548755/](https://tvrain.ru/teleshow/notes/roditeli_neskolkih_srochnikov_rasskazali_ob_ugrozhajuschej_ih_detjam_prinuditelnoj_otpravke_v_ukrainu-548755/)
