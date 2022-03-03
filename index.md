@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Война с Украиной**
+title: ВОЙНА С УКРАИНОЙ
 permalink: /
 ---
 
